@@ -1,4 +1,5 @@
-Following are the steps for an efficient solution:
+following are the steps for an efficient solution:
+this code is trash tbh for me
 
 n! can be represented as :-  n! = (a1^p1) (a2^p2)x...(ak^pk).
 
